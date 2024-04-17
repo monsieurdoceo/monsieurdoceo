@@ -1,6 +1,6 @@
 # 👨‍💻 Monsieur Doceo/GregDeRiz
 
-**`Digital Artist (Dévelopeur/Créateur/Animateur)`**
+**`Digital Crafter (Dévelopeur/Créateur/Animateur)`**
 
 Je suis quelqu'un qui aime créer du contenu multiple m'apportant de nouvelles connaissances et compétences.
 Mes projets publiques sont publiqués ici même et certains se retrouver présentés sur ma chaîne Youtube "[MonsieurDoceo](https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA)".
@@ -8,11 +8,9 @@ Tout est construit à partir de zéro et uniquement via la documentation de plus
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Abonnez-vous à Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.twitch.tv/monsieurdoceo">
-         <img alt="followers" title="Suivez-moi sur Twitch" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="subscribers" title="Abonnez-vous à Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCn1BkFoyCJ7UcHdWl9SqmmA?color=%23E05D44&label=SUBSCRIBE&?logo=doceo youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/GregDeRiz?tab=repositories&q=&type=&language=&sort=stargazers">
-         <img alt="total stars" title="Mes meilleurs projets GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Mes meilleurs projets GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GregDeRiz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ---
