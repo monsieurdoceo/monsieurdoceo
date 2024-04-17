@@ -2,7 +2,9 @@
 
 **`Digital Artist (Dévelopeur/Créateur/Animateur)`**
 
-"[MonsieurDoceo](https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA)"
+Je suis quelqu'un qui aime créer du contenu multiple m'apportant de nouvelles connaissances et compétences.
+Mes projets publiques sont publiqués ici même et certains se retrouver présentés sur ma chaîne Youtube "[MonsieurDoceo](https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA)".
+Tout est construit à partir de zéro et uniquement via la documentation de plusieurs sites et inspiration de vidéos.
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA?sub_confirmation=1">
