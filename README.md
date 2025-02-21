@@ -1,4 +1,4 @@
-# 👨‍💻 Monsieur Doceo/GregDeRiz
+# 👨‍💻 Monsieur Doceo
 
 **`Digital Crafter (Dévelopeur/Créateur/Animateur)`**
 
