@@ -1,10 +1,10 @@
 # 👨‍💻 Monsieur Doceo
 
-**`Digital Crafter (Dévelopeur/Créateur/Animateur)`**
+**`Digital Crafter (Developer/Creator/Animator)`**
 
-Je suis quelqu'un qui aime créer du contenu multiple m'apportant de nouvelles connaissances et compétences.
-Mes projets sont publiqués ici même et certains se retrouver présentés sur ma chaîne Youtube "[MonsieurDoceo](https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA)".
-Tout est construit à partir de zéro et uniquement via la documentation de plusieurs sites et inspiration de vidéos.
+I am someone who likes to create multiple content bringing me new knowledge and skills. 
+My projects are published here and some of them can be presented on my Youtube channel "[MonsieurDoceo](https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA)". 
+Everything is built from scratch and only via the documentation of several sites and video inspiration.
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA?sub_confirmation=1">
