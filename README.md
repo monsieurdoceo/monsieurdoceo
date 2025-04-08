@@ -8,7 +8,7 @@ Everything is built from scratch and only via the documentation of several sites
 
 <p align="left">
       <a href="https://www.youtube.com/channel/UCn1BkFoyCJ7UcHdWl9SqmmA?sub_confirmation=1">
-         <img alt="subscribers" title="Abonnez-vous à Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/@MonsieurDoceo?color=%23E05D44&label=SUBSCRIBE&?logo=doceo youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="subscribers" title="Abonnez-vous à Youtube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCn1BkFoyCJ7UcHdWl9SqmmA?color=%23E05D44&label=SUBSCRIBE&?logo=doceo youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/GregDeRiz?tab=repositories&q=&type=&language=&sort=stargazers">
          <img alt="total stars" title="Mes meilleurs projets GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GregDeRiz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
