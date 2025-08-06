@@ -32,4 +32,4 @@ Everything is built from scratch and only via the documentation of several sites
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregderiz&theme=flag-india&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monsieurdoceo&theme=flag-india&show_icons=true)
