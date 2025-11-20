@@ -8,20 +8,6 @@ J’avance en construisant, testant, cassant, recommençant : c’est comme ça 
 
 ---
 
-## 🛠️ Compétences & Outils
-
-### 🔤 Langages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
-</p>
-
----
-
 ## 📈 Stats GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monsieurdoceo&theme=react&show_icons=true)
 
