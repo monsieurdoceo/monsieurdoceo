@@ -8,21 +8,6 @@ J’avance en construisant, testant, cassant, recommençant : c’est comme ça 
 
 ---
 
-## 🚀 Projet principal
-
-### 🔭 OpenCore – Moteur 3D pour simulation spatiale (C++ / OpenGL)
-Moteur graphique développé entièrement from scratch, avec :
-
-- ECS maison  
-- Pipeline de rendu (shaders, caméras, matrices)  
-- Gestion des orbites et rotations planétaires  
-- Architecture modulaire CMake
-
-➡️ Projet en évolution constante pour approfondir C++, OpenGL, maths 3D et architecture moteur.  
-🔗 **Repo :** https://github.com/monsieurdoceo/OpenCore
-
----
-
 ## 🛠️ Compétences & Outils
 
 ### Langages
