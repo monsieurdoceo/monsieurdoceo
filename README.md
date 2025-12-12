@@ -9,11 +9,6 @@ J’avance en construisant, testant, cassant, recommençant : c’est comme ça 
 
 ---
 
-## 📈 Stats GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monsieurdoceo&theme=react&show_icons=true)
-
----
-
 ## 📹 Autres créations
 Je poste parfois des tests, prototypes et expériences graphiques sur YouTube :  
 🎥 **https://www.youtube.com/@MonsieurDoceo**
