@@ -1,14 +1,12 @@
-# 👨‍💻 Développeur polyvalent
+# 👨‍💻 OpenSource Developer
 
-J’aime développer, apprendre et créer — peu importe le langage ou la technologie.  
-Je suis passionné par la construction de systèmes, les architectures logicielles, et tout ce qui me permet de monter en compétences.  
+I love to develop, learn and create — no matter the language or technology. 
 
-Mes points forts actuels sont **Java** et **C++**, mais je n’hésite jamais à explorer de nouveaux outils, frameworks ou paradigmes quand un projet le demande.  
+I am passionate about building systems, software architectures, and everything that allows me to increase my skills. 
+My current strengths are **Java** and **C++**, but I never hesitate to explore new tools, frameworks or paradigms when a project requires it. 
 
-J’avance en construisant, testant, cassant, recommençant : c’est comme ça que j’apprends le mieux.
+I move forward by building, testing, breaking, starting again: that's how I learn best. 
 
----
+--- ## 
 
-## 📹 Autres créations
-Je poste parfois des tests, prototypes et expériences graphiques sur YouTube :  
-🎥 **https://www.youtube.com/@MonsieurDoceo**
+📹 Other creations I sometimes post tests, prototypes and graphic experiments on YouTube: 🎥 **https://www.youtube.com/@MonsieurDoceo**
