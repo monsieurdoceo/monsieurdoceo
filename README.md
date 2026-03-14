@@ -7,6 +7,8 @@ My current strengths are **Java** and **C++**, but I never hesitate to explore n
 
 I move forward by building, testing, breaking, starting again: that's how I learn best. 
 
---- ## 
+--- 
 
-📹 Other creations I sometimes post tests, prototypes and graphic experiments on YouTube: 🎥 **https://www.youtube.com/@MonsieurDoceo**
+## 📹 Other creations 
+
+I sometimes post tests, prototypes and graphic experiments on YouTube: 🎥 **https://www.youtube.com/@MonsieurDoceo**
