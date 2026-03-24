@@ -1,4 +1,4 @@
-# 👨‍💻 OpenSource Developer
+# 👨‍💻 Open Source Developer
 
 I love to develop, learn and create — no matter the language or technology. 
 
